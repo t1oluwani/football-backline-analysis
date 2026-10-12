@@ -1,0 +1,56 @@
+# Data and video (large, and may have redistribution limits)
+data/*
+!data/.gitkeep
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.onnx
+*.engine
+*.ckpt
+runs/
+weights/
+
+# Generated outputs (keep a few README demos in assets/ instead)
+outputs/*
+!outputs/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.python-version
+build/
+dist/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Secrets and local config
+.env
+*.local
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# LaTeX build files (if the proposal lives in this repo)
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
