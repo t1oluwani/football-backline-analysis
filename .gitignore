@@ -24,6 +24,7 @@ outputs/*
 __pycache__/
 *.py[cod]
 *.egg-info/
+.fba_env/
 .venv/
 venv/
 env/
