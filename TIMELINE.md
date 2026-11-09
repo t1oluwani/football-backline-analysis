@@ -22,7 +22,7 @@ One PR per milestone, merged to `main` when the milestone's output exists.
 - [x] Repo and environment working
 - [x] Data access confirmed
 - [ ] 5-10 goal clips chosen (IP)
-- [ ] Literature review notes (IP)
+- [x] Literature review notes
 
 **Video to positions** 
 - [ ] Object detection (IP)
