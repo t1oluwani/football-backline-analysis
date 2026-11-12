@@ -18,10 +18,10 @@ One PR per milestone, merged to `main` when the milestone's output exists.
 
 ## To-do
 
-**Setup** 
+**Setup** [Completed]
 - [x] Repo and environment working
 - [x] Data access confirmed
-- [ ] 5-10 goal clips chosen (IP)
+- [x] 5-10 goal clips chosen
 - [x] Literature review notes
 
 **Video to positions** [Current]
