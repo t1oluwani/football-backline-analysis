@@ -26,6 +26,8 @@ One PR per milestone, merged to `main` when the milestone's output exists.
 
 **Video to positions** 
 - [ ] Object detection (IP)
+  - [ ] Player and Ball
+  - [ ] Pitch Landmarks
 - [ ] Model fine-tuning
 - [ ] Tracking
 - [ ] Team assignment
@@ -35,11 +37,12 @@ One PR per milestone, merged to `main` when the milestone's output exists.
 **Metrics and overlay**
 - [ ] Defensive radius and line metrics
 - [ ] Overlay on video
-- [ ] Same metrics on open tracking data (fallback)
+- [ ] Concurrent Tactibal Board play by play
 - [ ] *Output: one annotated clip (main demo visual)*
 
 **Faults and labeling**
 - [ ] Fault rules and labels
+  - [ ] Tweak Definitions (particularly defender players vs players defending)
 - [ ] Hand-label validation set
 - [ ] End-to-end run on all clips
 - [ ] *Output: label and triggering faults per clip*
