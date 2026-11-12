@@ -40,6 +40,7 @@
 - **Stripe count and width differ from field to field**
   - roughly 9–12 m wide, from my research
   - no consistent number of stripes to rely on
+  - sometimes strips are horizontal, sometimes their vertical
   - especially a problem because my data is so varied in angle and range
 - **Stripes are identical to each other, with no numbering**
   - unless the whole field is visible at once, there's no way to tell which stripe is which
@@ -58,3 +59,6 @@
   - problem: field size isn't as consistent between games as I thought
   - now: infer ratios from the white pitch markings themselves
 
+### Raw Notes (Thoughts)
+- some of the angles might be impossible, especially the cameras behind the nets, the goals at the other end in very compressed, im curios to see how the model will behave or interpret stuff like that
+- going to increase rec video clip from 15s to 20s or maybe 25s some of these goals require larger contexted for proper analysis, this is just a thought atm
