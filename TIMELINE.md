@@ -24,7 +24,7 @@ One PR per milestone, merged to `main` when the milestone's output exists.
 - [ ] 5-10 goal clips chosen (IP)
 - [x] Literature review notes
 
-**Video to positions** 
+**Video to positions** [Current]
 - [ ] Object detection (IP)
   - [ ] Player and Ball
   - [ ] Pitch Landmarks
@@ -37,10 +37,10 @@ One PR per milestone, merged to `main` when the milestone's output exists.
 **Metrics and overlay**
 - [ ] Defensive radius and line metrics
 - [ ] Overlay on video
-- [ ] Concurrent Tactibal Board play by play
+- [ ] Concurrent Tactical Board play by play
 - [ ] *Output: one annotated clip (main demo visual)*
 
-**Faults and labeling**
+**Faults and labeling** [Goal]
 - [ ] Fault rules and labels
   - [ ] Tweak Definitions (particularly defender players vs players defending)
 - [ ] Hand-label validation set
